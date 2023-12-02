@@ -1,1 +1,1 @@
-requirements.txt
+pyramid==2.0
